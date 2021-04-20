@@ -1,0 +1,13 @@
+{
+    "name": "my-electron-app",
+    "version": "0.1.0",
+    "author": "heyaokang",
+    "description": "My Electron app",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "node-red": "^1.3.1"
+    }
+}
